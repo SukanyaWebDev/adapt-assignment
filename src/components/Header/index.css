@@ -1,0 +1,21 @@
+.header-container {
+  width: 100%;
+  padding: 10px;
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.unordered-container-icons {
+  display: flex;
+  align-items: center;
+}
+.icon-image {
+  width: 20px;
+  height: 20px;
+  margin-right: 7px;
+}
+
+.logo-image {
+  height: 30px;
+}

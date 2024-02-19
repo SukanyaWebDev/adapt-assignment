@@ -1,0 +1,11 @@
+button {
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+.buttons-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
